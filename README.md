@@ -1,5 +1,5 @@
 # DALL-E-2-generated-assets
-Copyright (c) 2022, Luis Quesada Torres - https://github.com/lquesada | www.luisquesada.com
+Luis Quesada Torres, 2022 - https://github.com/lquesada | www.luisquesada.com
 
 Free-to-use image assets generated with [OpenAI](https://openai.com/)'s [DALL·E 2](https://openai.com/dall-e-2/).
 
