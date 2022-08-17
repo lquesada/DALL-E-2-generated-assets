@@ -24,4 +24,4 @@ and
 
 4. No NFTs are minted from these assets, as-is or modified, directly or indirectly.
 
-Note that per [DALL·E Terms of use](https://labs.openai.com/policies/terms), OpenAI owns the images but grant me the exclusive rights to reproduce and display them, won't assert any copyright in them provided that I comply with the [terms of use](https://labs.openai.com/policies/terms) and [content policy](https://labs.openai.com/policies/content-policy). **If you misuse these assets, we may lose the rights to use them.** Please make a responsible use.
+Note that per [DALL·E Terms of use](https://labs.openai.com/policies/terms), OpenAI owns the images, grants me the exclusive rights to reproduce and display them, and won't assert any copyright in them provided that I comply with the [terms of use](https://labs.openai.com/policies/terms) and [content policy](https://labs.openai.com/policies/content-policy). **If you misuse these assets, we may lose the rights to use them.** Please make a responsible use.
